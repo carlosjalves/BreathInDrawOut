@@ -12,7 +12,7 @@ We want this project to show that the machine often can't replicate human behavi
 
 ### Context
 
-This project was developed in the context of the Project 4 - Interactive Multimedia course of the master’s degree in [Design and Multimedia](https://dm.dei.uc.pt/en/about/) of the [Faculty of Sciences and Technology of the University of Coimbra](https://www.uc.pt/fctuc/). 
+This project was developed in the context of the Project 4 - Interactive Multimedia course of the bachelor’s degree in [Design and Multimedia](https://dm.dei.uc.pt/en/about/) of the [Faculty of Sciences and Technology of the University of Coimbra](https://www.uc.pt/fctuc/). 
 
 ### Technologies used
 
